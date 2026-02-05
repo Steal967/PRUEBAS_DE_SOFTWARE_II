@@ -75,4 +75,4 @@ Se implementó un plan de pruebas funcional utilizando:
 
 1. Clonar el repositorio:
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/Steal967/PRUEBAS_DE_SOFTWARE_II.git
